@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
+
+body{
+    background-color: rgba(247, 244, 244, 0.929);
+    margin:0;
+    padding: 0;
+
+}
+h1{
+    font-family: 'Rubik Glitch', cursive;
+    font-size: 5em;
+    position: relative;
+    top: -4rem;
+    left: 1em;
+}
+
+h2{
+
+    position: relative;
+    top: -6.5rem;
+    font-size: 2.2em;
+    left: 3em;  
+}
+p{
+position: relative;
+top: -7rem;
+left: 4em;
+font-size: 1.5em;
+}
+h4 a{
+    position: relative;
+    text-decoration: none;
+    top: 1.5rem;
+    font-size: 1.1rem;
+    color:#f2f9fc;
+
+}
+.imagemFundo{
+position: absolute;
+left: 20em;
+top: 12em;
+}
+
+#login{
+   background-color: rgba(49, 47, 47, 0.318);
+   box-shadow: 1px 2px 2px;
+   text-align: center;
+   padding: 10px;
+   width: 25pc;
+   height: 22pc;
+   border-radius: 3%;
+   position: relative;
+   top:17rem;
+   left: 24em;
+   
+   
+}
+
+.inpLogin,.inpSenha
+{
+    width: 24.5pc;
+    height: 2.5pc;
+    margin-top: 7px;
+}
+
+.btnEntrar{
+    width: 25pc;
+    height: 3pc;
+    margin-top: 7px;
+    background-color:#00aeff ;
+    border: none;
+    color:#f2f9fc;
+
+}
+.btnEntrar:hover{
+    background-color: #6393f2ec;
+    
+}
+
+.btnCadastrar{
+    width: 10pc;
+    height: 3pc;
+    margin-top: 7px;
+    position: relative;
+    top:60px;
+    background-color: #9563f2;
+    border: none;
+    color:#c3dfeb;
+    
+}
+.btnCadastrar a{
+    text-decoration: none;
+    color:#c3dfeb;
+}
+.btnCadastrar:hover{
+background-color: #6393f2ad;
+
+}
+.texto{
+    position: relative;
+    top:-18rem;
+    left: 32em;
+    color:rgba(255, 255, 255);;
+}
+
+img.imagemFundo{
+    border-radius: 1%;
+}
+
+
